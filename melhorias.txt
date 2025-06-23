@@ -1,0 +1,4 @@
+Ideias para o projeto
+
+1- Adicionar mais tarefas
+2- Adicionar um icone de verificado para as tarefas concluidas
